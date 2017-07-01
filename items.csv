@@ -4344,7 +4344,7 @@ greencon,251,13
 redconcrete,251,14
 redcon,251,14
 blackconcrete,251,15
-blackcon,251,16
+blackcon,251,15
 whitepowder,252,0
 cpow,252,0
 whitecpow,252,0
@@ -4387,7 +4387,7 @@ greencpow,252,13
 redpowder,252,14
 redcpow,252,14
 blackpowder,252,15
-blackcpow,252,14
+blackcpow,252,15
 structureblock,255,0
 structureb,255,0
 bstructure,255,0
