@@ -1,6 +1,6 @@
 #version: EcoCityCraft.
 #If you change this file it will not be automatically updated after the next release.
-#item,id,metadata
+#item materialname metadata
 stone,STONE,0
 sstone,STONE,0
 smoothstone,STONE,0
